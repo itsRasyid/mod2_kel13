@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/Downloads/mod2_kel13/mod2_kel13/app/src/main/res/drawable-v24/onboarding_indicator_active.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/Lenovo/Downloads/mod2_kel13/mod2_kel13/app/src/main/res/layout/activity_about.xml" value="0.11927083333333334" />
+        <entry key="..\:/Users/Lenovo/Downloads/mod2_kel13/mod2_kel13/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/mod2_kel13/mod2_kel13/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/mod2_kel13/mod2_kel13/app/src/main/res/layout/activity_wajah.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/mod2_kel13/mod2_kel13/app/src/main/res/layout/item_rv_list_user.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/modul2_kel07/modul2_kel07/app/src/main/res/drawable-v24/onboarding_indicator_active.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/modul2_kel07/modul2_kel07/app/src/main/res/drawable-v24/onboarding_indicator_inactive.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/modul2_kel07/modul2_kel07/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/modul2_kel07/modul2_kel07/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/modul2_kel07/modul2_kel07/app/src/main/res/layout/activity_landing_page.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/modul2_kel07/modul2_kel07/app/src/main/res/layout/activity_main.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Lenovo/Downloads/modul2_kel07/modul2_kel07/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/modul2_kel07/modul2_kel07/app/src/main/res/layout/activity_wajah.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/modul2_kel07/modul2_kel07/app/src/main/res/layout/item_container_onboarding.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/modul2_kel07/modul2_kel07/app/src/main/res/layout/item_rv_list_user.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/StudioProjects/mod2_kel13/app/src/main/res/layout/activity_about.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/StudioProjects/mod2_kel13/app/src/main/res/layout/activity_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/StudioProjects/mod2_kel13/app/src/main/res/layout/activity_landing_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/StudioProjects/mod2_kel13/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/StudioProjects/mod2_kel13/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/StudioProjects/mod2_kel13/app/src/main/res/layout/activity_wajah.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/StudioProjects/mod2_kel13/app/src/main/res/layout/item_container_onboarding.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/StudioProjects/mod2_kel13/app/src/main/res/layout/item_rv_list_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/drawable-v24/bg_btn_blue.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/drawable-v24/bg_header_home.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/drawable-v24/onboarding_indicator_active.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/drawable-v24/onboarding_indicator_inactive.xml" value="0.225" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/layout/activity_about.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/layout/activity_landing_page.xml" value="0.14375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/layout/activity_splash_screen.xml" value="0.14375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/layout/activity_wajah.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/layout/item_cointainer_onboarding.xml" value="0.14375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/layout/item_container_onboarding.xml" value="0.14375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/modul2_kel07/app/src/main/res/layout/item_rv_list_user.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

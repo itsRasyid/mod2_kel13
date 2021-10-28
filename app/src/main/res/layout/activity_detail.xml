@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="DetailActivity"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:weightSum="100">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_Photo_User"
+        android:layout_width="match_parent"
+        android:layout_height="332dp"
+        android:layout_weight="50"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher_round" />
+    <TextView
+        android:id="@+id/tv_first_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="nama"
+        android:typeface="serif"
+        android:textSize="23sp"
+        android:textColor="#000"/>
+    <TextView
+        android:id="@+id/tv_item_last_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="lastname"
+        android:typeface="serif"
+        android:textSize="18sp"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/tv_item_email"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="nama"
+        android:textColor="#000"
+        android:textSize="16sp"
+        android:typeface="serif" />
+</LinearLayout>
